@@ -1,2 +1,2 @@
-# Matlab-Programs
+# Matlab-Program
 This contain Matlab program
